@@ -1,4 +1,4 @@
-package android.example.moviemvvm.SingleMovieDetails
+package android.example.moviemvvm.ui.SingleMovieDetails
 
 import android.example.moviemvvm.data.repository.NetworkState
 import androidx.lifecycle.LiveData
